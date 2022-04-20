@@ -5,6 +5,7 @@ body {
   background-attachment: fixed;
 
   background-size: cover;
+  overflow: hidden;
 /*background-size: 200rem;
  */
 }
